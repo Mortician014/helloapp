@@ -18,5 +18,7 @@ class Program
     static void Main() 
     {
         SayHello();
+        GreetWhite();
+        GreetBlack();
     }
 }
